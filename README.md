@@ -8,6 +8,7 @@ The Movie Ticket Booking Web App is a comprehensive platform designed to provide
 ### Seamless Ticket Booking Process
 - **Seat Selection**: Users can choose their preferred seats from a dynamic seating layout.
 - **Slot Selection**: Users can choose seat rows and time.
+- **Last Booking**: Users can see their ticket once booked as Last Booking Details.
 
 ### View Current Bookings
 - **Booking Details**: View detailed information about each booking, including movie details, showtimes, and seat numbers.
